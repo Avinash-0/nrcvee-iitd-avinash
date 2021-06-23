@@ -1,0 +1,50 @@
+.contact_infornmation{
+    width: 350px;
+    margin-left: 20px;
+    border-left: 1px solid  rgb(90, 7, 7);
+    
+    padding: 15px;
+    padding-top: 20px;
+    margin-top: 25px;
+
+   
+    
+}  
+.contact_infornmation h3{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+ 
+.contact_image img {
+
+    padding-left: 130px;
+    padding-right: 130px;
+
+    /* border-bottom: 1px solid rgb(90, 7, 7); */
+   
+
+
+}
+.contact_title {
+    /* margin-top: 30px; */
+    
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid rgb(90, 7, 7);
+    border-top: 1px solid rgb(90, 7, 7);
+    text-align: center;
+    
+    background-color: rgba(241, 234, 234, 0.021);
+
+    
+}
+.phone_2{
+    margin-left: 70px;
+}
+.xyz{
+    text-align:center;
+    text-decoration:underline;
+}
+.contact_infornmation h4{
+    text-align: center;
+}

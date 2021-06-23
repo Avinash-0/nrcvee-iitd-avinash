@@ -1,0 +1,23 @@
+/* .sliderdiv{
+    display: flex; 
+    justify-content: center; 
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+} */
+.slider{
+    /* margin-left: 200px; */
+    margin-left: auto;
+    margin-right: auto;
+    width: 1150px;
+    margin-top: 50px;
+}
+.slider img{
+    height: 450px;
+}
+
+.carousel .slide .legend{
+    /* display: none; */
+    display: none;
+    
+}

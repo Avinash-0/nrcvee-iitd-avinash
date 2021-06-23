@@ -1,0 +1,42 @@
+.scholar1_publications{
+    margin-left: Auto;
+    margin-right: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-left: 1px solid rgb(138, 51, 51);
+    width: 1000px;
+   
+}
+/* .pub_items{
+    border-bottom: 1px solid rgb(138, 51, 51);
+    
+} */
+.scholar1_publications ul{
+    margin-top: 1px;
+    text-align:justify;
+    /* width: 1000px; */
+
+    margin-left: Auto;
+    margin-right: auto;
+    padding-left: 20px;
+    
+}
+.scholar1_publications li{
+    margin-bottom: 5px;
+    line-height: 23px;
+
+}
+.scholar1_publications h3{
+    text-decoration: underline;
+    padding: 0%;
+    margin-bottom: 0px;
+    margin-top: 2px;
+}
+.scholar1_publications h2{
+    font-family:fantasy;
+    text-decoration: underline;
+    color: rgb(138, 51, 51);
+}
+.scholar1_publications li a{
+    color: rgb(138, 51, 51);
+}

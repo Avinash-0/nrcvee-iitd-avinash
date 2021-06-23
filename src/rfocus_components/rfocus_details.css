@@ -1,0 +1,39 @@
+.rfocus_content_overall{
+    margin-left: 110px;
+    margin-right: 110px; 
+    margin-top: 50px;
+}
+.subcontent_odd{
+    width: 900px; 
+    display: inline-block;
+    text-align: justify;
+}
+.subcontent_even{
+    width: 900px; 
+    
+    text-align: justify; 
+    margin-left: auto;
+    
+}
+.even_heading{
+    text-align: right;
+    
+}
+.rfocus_content_overall p{
+    line-height: 23px;
+}
+.odd_image{
+    width: 300px;
+    height: 180px;
+
+}
+.even_image{
+    display: inline-block; 
+    width: 300px;
+    height: 180px;
+}
+/* 
+"line-height: 23px"
+style="width: 900px; display: inline-block; "
+style=""
+style="width: 900px; display: inline-block;" */

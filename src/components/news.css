@@ -1,0 +1,36 @@
+.newsdiv{
+    width: 750px;
+    padding: 0px;
+    /* margin-left:  110px ; */
+   
+}
+.newsdiv  h2{
+    font-size: 30px;
+    background-color: rgba(230, 225, 225, 0.267);
+    padding: 15px 15px;
+    border-top:  2px solid rgb(126, 8, 8);
+    font-family: monospace;
+    
+}
+.newsdiv a{
+    text-decoration: none;
+    font-size: 19px;
+    font-weight: 700;
+    color: rgb(148, 17, 17);
+
+}
+.newsdiv a:hover{
+    color: rgb(131, 14, 14);
+    text-decoration: underline;
+    
+}
+.newsdiv p{
+    font-size: 12px;
+    margin-top: 1px;
+}
+.newsdiv .newssection{
+    margin-top: 10px;
+    padding: 10px;
+    background-color:rgba(230, 225, 225, 0.267) ;
+    border-left: 1px solid rgb(126, 8, 8);
+}

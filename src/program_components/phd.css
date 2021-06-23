@@ -1,0 +1,29 @@
+.phd_background{
+    width: 850px;
+    margin-left: 140px;
+    margin-right: auto;
+    text-align: justify;
+    margin-top: 50px;
+    font-size: 16px;
+    padding-left: 20px;
+    border-left: 1px solid rgb(138, 51, 51);
+    line-height: 23px;
+
+
+
+
+
+}
+.phd_background h2{
+    text-decoration: underline;
+}
+.quote{
+    margin-top: 110px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 110px;
+    width: 710px;
+    font-size: 40px;
+    font-family: cursive;
+    color:rgb(138, 51, 51) ;
+}

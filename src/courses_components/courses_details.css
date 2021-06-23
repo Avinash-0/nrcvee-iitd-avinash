@@ -1,0 +1,27 @@
+.courselist{
+    margin-left: auto;
+    margin-right: auto;
+    width: 850px;
+    text-align: justify;
+    text-justify:auto;  
+    margin-top: 50px;
+    line-height: 20px;
+    padding-left:25px;
+    
+    
+
+}
+.courselist h2{
+    text-decoration: underline;
+}
+.courselist h4{
+    text-decoration: underline;
+}
+.courselist ul{
+    border-bottom: 1px solid rgb(128, 14, 14);
+    padding: 15px;
+}
+.note{
+    padding-bottom: 15px;
+    border-bottom: 1px solid rgb(128, 14, 14);
+}

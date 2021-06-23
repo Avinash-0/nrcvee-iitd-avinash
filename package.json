@@ -7,8 +7,15 @@
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
     "react": "^17.0.2",
+    "react-collapsible": "^2.8.3",
     "react-dom": "^17.0.2",
+    "react-icons": "^4.2.0",
+    "react-responsive-carousel": "^3.2.18",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.3",
+    "react-simple-image-slider": "^2.1.2",
+    "read-more-react": "^1.0.10",
+    "simple-react-footer": "^1.0.2",
     "web-vitals": "^1.1.2"
   },
   "scripts": {

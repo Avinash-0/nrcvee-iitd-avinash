@@ -1,0 +1,39 @@
+.aboutdiv{
+    width: 950px; 
+    /* display: inline-block; */
+    overflow: hidden; 
+    margin-left: auto;
+    margin-right:auto;
+    text-align: justify;
+    text-justify:auto; 
+    margin-top: 50px;
+    font-size: 16px;
+    border-left: 1px solid rgb(126, 8, 8);
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.aboutdiv p{
+    line-height: 23px;
+}
+
+.aboutdiv ul{
+    line-height: 23px;
+    margin-left: 0%;
+}
+.aboutdiv ul li{
+    margin-left: -23px;
+    line-height: 30px; 
+}
+.leaders{
+    list-style-type: none;
+    font-family: monospace;
+    font-size: 18px;
+    background-color:white
+    
+}
+
+.whichpage{
+    font-weight: 700;
+    font-style: italic;
+    color: rgb(143, 34, 14);
+}

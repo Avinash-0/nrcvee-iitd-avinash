@@ -1,0 +1,56 @@
+.scholars_list{
+    width: 850px;
+    margin-left: 140px;
+    margin-right: 110px;
+    text-align: justify;
+    margin-top: 80px;
+    font-size: 16px;
+    
+}    
+.list{
+    display: flex;
+    align-items: flex-start;
+   
+    border-left: 1px solid rgb(128, 14, 14); 
+    padding: 12px 0px;
+    padding-left: 30px;
+    border-bottom: 1px solid rgb(128, 14, 14);
+    margin-bottom: 20px;
+    
+}
+.list:hover{
+    cursor: pointer;
+    
+}
+
+.scholars_list h2{
+    text-decoration: underline;
+
+}
+.scholars_list h3{
+    margin-top: 0;
+    margin-bottom: 0;
+
+    
+}
+.scholars_list h4{
+    margin-top: 2px;
+}
+.scholars_list img{
+    width: 150px;
+    height: 180px;
+    margin-right: 20px;
+    
+}
+.readmore:hover{
+    cursor: pointer;
+
+}
+
+.sublist a{
+    color: rgb(128, 14, 14);
+}
+
+.sublist a:hover{
+    color: red;
+}
